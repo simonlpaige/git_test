@@ -1,1 +1,2 @@
-This is Simon's fir git project!
+This is Simon's first git project!
+Hello again!
